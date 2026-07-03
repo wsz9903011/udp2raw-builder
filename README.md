@@ -1,8 +1,8 @@
 # Phantun OpenWrt Package Builder
 
 本项目用于通过 **GitHub Actions** 自动编译 **Phantun** 的 OpenWrt 安装包。
-Phantun OpenWrt项目来源于  https://github.com/XMoon/phantun-openwrt
-最终源码来源于：https://github.com/dndx/phantun
+- Phantun OpenWrt项目来源于  https://github.com/XMoon/phantun-openwrt
+- 最终源码来源于：https://github.com/dndx/phantun
 ## 编译环境
 
 - OpenWrt：25.12.4
